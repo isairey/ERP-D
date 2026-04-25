@@ -56,15 +56,7 @@ Puedes descargar el sistema completo junto con sus dependencias desde:
 🔗 https://pan.baidu.com/s/1CUjYs-UtzKoj2skdwUiDJw
 🔑 Código de acceso: `xfnu`
 
----
 
-## 📞 Soporte y contacto
-
-Para soporte o dudas:
-
-* 📱 Teléfono / WhatsApp: 13688610695
-* 💬 WeChat: borui-soft
-* 💻 QQ: 2870995167
 
 ---
 
